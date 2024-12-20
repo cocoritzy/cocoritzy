@@ -6,7 +6,7 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ## Download My CV
 
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/johndoe/my-portfolio/blob/main/CV.pdf)
+[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
 
 <h2>👨‍💻 Data Analysis Development Projects:</h2>
 
