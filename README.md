@@ -21,7 +21,7 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 ### Projet 1 : Analyse des ventes d'une entreprise
 - **Description** : Analyse des ventes mensuelles pour prévoir les tendances futures.
 - **Technologies** : Python, pandas, Matplotlib, scikit-learn, SQL.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
+- **Lien vers le projet** : [lien vers le projet GitHub](https://github.com/cocoritzy/Project-1/blob/main/7.1%20Gestion%20des%20erreurs%20live%20coding.ipynb)
 
 ### Projet 2 : Analyse des sentiments sur Twitter
 - **Description** : Utilisation du scraping pour analyser les sentiments des utilisateurs sur Twitter autour d'un sujet donné.
