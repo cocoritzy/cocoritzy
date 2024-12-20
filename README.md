@@ -7,6 +7,11 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 ## Download My CV
 
 [![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
+[Click here to download my CV](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
+<a href="https://github.com/username/repository-name/blob/main/CV.pdf" target="_blank" style="display:inline-block;padding:10px 30px;font-size:16px;color:white;background-color:#2196F3;border-radius:25px;text-decoration:none;">
+    Download My CV
+</a>
+
 
 <h2>👨‍💻 Data Analysis Development Projects:</h2>
 
