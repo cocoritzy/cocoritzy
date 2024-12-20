@@ -1,5 +1,13 @@
 <h1>Hi, I'm Coline! <br/><a 
 
+# My Portfolio
+
+Welcome to my portfolio! Here you can find my projects and details about my experience.
+
+## Download My CV
+
+[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/johndoe/my-portfolio/blob/main/CV.pdf)
+
 <h2>👨‍💻 Data Analysis Development Projects:</h2>
 
 - <b>Final study cas with databird</b>
