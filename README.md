@@ -1,4 +1,6 @@
-<h1>Hi, I'm xxx! <br/><a 
+<h1>Hi, I'm Coline Ritz! <br/><a 
+
+I'm a Design Engineer. I design and build things to solve problems.
 
 # My Portfolio test 
 
@@ -10,7 +12,7 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ## Download My CV
 
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/user-attachments/files/18209415/2021JDF_Picnic_new.vehicle.intern.3.pdf)
+[Download My CV]()]
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
