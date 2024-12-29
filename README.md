@@ -12,7 +12,7 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ## Download My CV
 
-[Download My CV]()]
+[Download My CV]([CV.pdf](https://github.com/user-attachments/files/18270413/CV.pdf))
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
