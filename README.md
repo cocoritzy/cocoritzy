@@ -11,15 +11,15 @@ I also hold a First Class Degree in [Design Engineering](https://www.imperial.ac
 ---
 ## 📌 **Projects & Research**  
 ### 1️⃣ Internet Carbon Footprint Tool  
-* Designed and developed a real-time Internet Carbon Footprint analyse to increase user awareness of their digital carbon consumption.*  
+* Designed and developed a real-time Internet Carbon Footprint analyse to increase user awareness of their digital carbon consumption.  
 🔹 **Tech Stack**: Python, network traffic analyser, Machine Learning classifiers, Raspberry Pi, GCP
 
 ### **2️⃣ Students’ household energy consumption prediction algorithms**  
-* Explored correlations between household’s energy consumption and energy’s news datasets to build prediction algorithms to increase awareness and reduce domestic energy consumption.*  
+* Explored correlations between household’s energy consumption and energy’s news datasets to build prediction algorithms to increase awareness and reduce domestic energy consumption.  
 🔹 **Tech Stack**: Python, Light sensor, ESP32, NoSQL MongoDB, Twitter API
 
 ### **3️⃣ Rag for Climate news**  
-* Build an AI-powered assistant that retrieves relevant climate change tweets and generates context-aware responses.*  
+* Build an AI-powered assistant that retrieves relevant climate change tweets and generates context-aware responses.
 🔹 **Tech Stack**: LLM, Hugging Face datasets, FAISS, LangChain, Gradio 
 
 ---
