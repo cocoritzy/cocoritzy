@@ -2,51 +2,32 @@
 
 **👩‍🔬 Research | 🤖 Technology | 🌍 Sustainability |💻 Data**  
 
-Hi! I'm Coline Ritz, I design and build things to solve problems for a sustainable future  
-I also hold a First Class Degree in Design Engineering from Imperial College (MEng)
+Hi! I'm Coline Ritz, I design and build things to solve problems for a sustainable future   
+I also hold a First Class Degree in [Design Engineering](https://www.imperial.ac.uk/study/courses/undergraduate/design-engineering/) ↗ from Imperial College (MEng).
 
-**[My CV](https://your-link-to-cv.com)** ↗
 
+**[My CV](https://github.com/user-attachments/files/18988028/CV.pdf)** ↗
 
 ---
 ## 📌 **Projects & Research**  
-### **1️⃣ Autonomous Marine Drones for Biodiversity Monitoring**  
-*Using robotics to track and analyze marine ecosystems through eDNA sampling.*  
-🔹 **Tech Stack**: Python, ROS, Embedded Systems, AI/ML, eDNA Analysis  
-🔹 **Key Achievements**: Developed a prototype for real-time ocean data collection  
+### **1️⃣ Internet Carbon Footprint Tool **  
+* Designed and developed a real-time Internet Carbon Footprint analyse to increase user awareness of their digital carbon consumption.*  
+🔹 **Tech Stack**: Python, network traffic analyser, Machine Learning classifiers, Raspberry Pi, GCP
 
-### **2️⃣ Bio-Inspired Rescue Robot (‘Mini Wheg’)**  
-*Designed for avalanche victim rescue, incorporating climbing & search algorithms.*  
-🔹 **Tech Stack**: CAD, FEA, Prototyping, Mechatronics  
-🔹 **Key Achievements**: Optimized for speed, mobility & energy efficiency  
+### **2️⃣ Students’ household energy consumption prediction algorithms**  
+* Explored correlations between household’s energy consumption and energy’s news datasets to build prediction algorithms to increase awareness and reduce domestic energy consumption.*  
+🔹 **Tech Stack**: Python, Light sensor, ESP32, NoSQL MongoDB, Twitter API
 
-### **3️⃣ Climate Activism & Research Expedition**  
-*Traveled across the Americas meeting environmental activists, documented findings in a public report.*  
-🔹 **Format**: Interviews, storytelling, climate policy analysis  
-🔹 **Key Achievements**: Co-hosted 30+ workshops, published insights on sustainable movements  
+### **3️⃣ Rag for Climate news**  
+* Build an AI-powered assistant that retrieves relevant climate change tweets and generates context-aware responses.*  
+🔹 **Format**: LLM, Hugging Face datasets, FAISS, LangChain, Gradio 
 
 ---
 
 ## 📚 **Technical Skills**
-- 💻 **Programming**: Python, MATLAB, C++, ROS  
-- 🛠️ **Engineering**: CAD (Fusion 360, SolidWorks), FEA (Ansys), PCB Design  
-- 🔬 **Data Science**: Machine Learning, GIS, eDNA Analytics  
-- 🌊 **Field Skills**: Marine Navigation, UAV/Drones, Rapid Prototyping  
+- 🌍 **Languages**:French (native), English (bilingual), Spanish (Advanced)  
+- 💻 **Programming**: Object-oriented Python (scikit-learn, TensorFlow), MATLAB, Github  
+- 🖥️ **Software**: MS Office, SolidWorks, Fusion 360, Adobe (Id, Ai, Ps, Xd), CES Edupack, SimaPro, WF-Reptool  
+- ⚙️ **Hardware**: Raspberry Pi, Arduino, ESP32, prototyping, 3D printing, laser cutting, soldering, woodworks  
 
----
-
-## 🏆 **Publications & Talks**
-- 🎤 Speaker at **[Event Name]** – Discussing robotics for ocean conservation  
-- 📜 Research on **eDNA & biodiversity tracking** in marine environments  
-
----
-
-## 📫 **Let's Connect!**
-💌 **Email**: [YourEmail@example.com](mailto:your.email@example.com)  
-🔗 **Website/Portfolio**: [YourWebsite.com](https://yourwebsite.com)  
-🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
-📸 **Instagram**: [@yourhandle](https://instagram.com/yourhandle)  
-🔬 **Google Scholar/ResearchGate**: [Your Profile]  
-
-🚀 *Always open to collaborations in research, field expeditions, and sustainability-focused technology!*  
 
