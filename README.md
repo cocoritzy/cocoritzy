@@ -10,11 +10,11 @@ I also hold a First Class Degree in [Design Engineering](https://www.imperial.ac
 
 ---
 ## 📌 **Projects & Research**  
-### 1️⃣ Internet Carbon Footprint Tool  
+### [**1️⃣ What is Internet Carbon Footprint ?** ](https://github.com/cocoritzy/Internet-carbon-footprint)↗
 * Designed and developed a real-time Internet Carbon Footprint analyser to increase user awareness of their digital carbon consumption.
 * 🔹 **Tech Stack**: Python, network traffic analyser, Machine Learning classifiers, Raspberry Pi, GCP
 
-### [**2️⃣ Students’ household energy consumption prediction algorithms** ](https://github.com/cocoritzy/Energy-prediction-algorithms)↗
+### [**2️⃣ Can social media influence energy consumption?** ](https://github.com/cocoritzy/Energy-prediction-algorithms)↗
 * Explored correlations between household’s energy consumption and energy’s news datasets to build prediction algorithms to increase awareness and reduce domestic energy consumption.
 * 🔹 **Tech Stack**: Python, Light sensor, ESP32, NoSQL MongoDB, Twitter API
 
