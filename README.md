@@ -10,7 +10,7 @@ I also hold a First Class Degree in [Design Engineering](https://www.imperial.ac
 
 ---
 ## 📌 **Projects & Research**  
-### **1️⃣ Internet Carbon Footprint Tool **  
+### 1️⃣ Internet Carbon Footprint Tool  
 * Designed and developed a real-time Internet Carbon Footprint analyse to increase user awareness of their digital carbon consumption.*  
 🔹 **Tech Stack**: Python, network traffic analyser, Machine Learning classifiers, Raspberry Pi, GCP
 
