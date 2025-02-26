@@ -20,7 +20,7 @@ I also hold a First Class Degree in [Design Engineering](https://www.imperial.ac
 
 ### **3️⃣ Rag for Climate news**  
 * Build an AI-powered assistant that retrieves relevant climate change tweets and generates context-aware responses.*  
-🔹 **Format**: LLM, Hugging Face datasets, FAISS, LangChain, Gradio 
+🔹 **Tech Stack**: LLM, Hugging Face datasets, FAISS, LangChain, Gradio 
 
 ---
 
