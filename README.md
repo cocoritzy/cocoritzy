@@ -5,7 +5,7 @@
 Hi! I'm Coline Ritz, I design and build things to solve problems for a sustainable future  
 I also hold a First Class Degree in Design Engineering from Imperial College (MEng)
 
-[📄 View My CV]()
+[📄 View My CV](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
 
 ---
 ## 📌 **Projects & Research**  
