@@ -14,7 +14,7 @@ I also hold a First Class Degree in [Design Engineering](https://www.imperial.ac
 * Designed and developed a real-time Internet Carbon Footprint analyser to increase user awareness of their digital carbon consumption.
 * 🔹 **Tech Stack**: Python, network traffic analyser, Machine Learning classifiers, Raspberry Pi, GCP
 
-### **2️⃣ Students’ household energy consumption prediction algorithms**  
+### [**2️⃣ Students’ household energy consumption prediction algorithms** ](https://github.com/your-username/your-repository-name/blob/main/README.md)↗
 * Explored correlations between household’s energy consumption and energy’s news datasets to build prediction algorithms to increase awareness and reduce domestic energy consumption.
 * 🔹 **Tech Stack**: Python, Light sensor, ESP32, NoSQL MongoDB, Twitter API
 
