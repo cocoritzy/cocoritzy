@@ -5,9 +5,7 @@
 Hi! I'm Coline Ritz, I design and build things to solve problems for a sustainable future  
 I also hold a First Class Degree in Design Engineering from Imperial College (MEng)
 
-[![CV](https://img.shields.io/badge/-View%20My%20CV-black?style=for-the-badge&logo=adobeacrobatreader)]([https://your-link-to-cv.com](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf))
-
-
+**[My CV](https://your-link-to-cv.com)** ↗
 
 
 ---
