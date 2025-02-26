@@ -1,18 +1,13 @@
-# 🌊 Coline Ritz | Research Engineer & Explorer
+# Coline Ritz | Design Engineer
 
-**👩‍🔬 Research | 🤖 Robotics | 🌍 Sustainability | 🌊 Ocean & Expeditions**  
+**👩‍🔬 Research | 🤖 Technology | 🌍 Sustainability |💻 Data**  
 
-Hi! I'm **Coline Ritz**, a research engineer passionate about merging **robotics, environmental sustainability, and ocean exploration**. My work focuses on **biomimicry, sustainable HCI, and innovative technologies** for a low-carbon future.  
-I thrive in **hands-on fieldwork**, designing and testing new systems in real-world environments—whether underwater, in the lab, or aboard a research vessel.  
+Hi! I'm Coline Ritz, I design and build things to solve problems for a sustainable future  
+I also hold a First Class Degree in Design Engineering from Imperial College (MEng)
 
-## 🔬 **Current Work & Interests**  
-- 🌿 **Sustainable Robotics**: Designing nature-inspired robots for environmental monitoring  
-- 🤿 **Marine Research**: Exploring ocean biodiversity using drones & eDNA collection  
-- 🚀 **Expeditions & Fieldwork**: Seeking opportunities to integrate research into real-world explorations  
-- 🎓 **Teaching & Outreach**: Python instructor and advocate for climate-conscious tech  
+[📄 View My CV]()
 
 ---
-
 ## 📌 **Projects & Research**  
 ### **1️⃣ Autonomous Marine Drones for Biodiversity Monitoring**  
 *Using robotics to track and analyze marine ecosystems through eDNA sampling.*  
