@@ -18,7 +18,7 @@ I also hold a First Class Degree in [Design Engineering](https://www.imperial.ac
 * Explored correlations between household’s energy consumption and energy’s news datasets to build prediction algorithms to increase awareness and reduce domestic energy consumption.
 * 🔹 **Tech Stack**: Python, Light sensor, ESP32, NoSQL MongoDB, Twitter API
 
-### **3️⃣ Rag for Climate news**  
+### [**3️⃣ Rag for Climate news**  ](https://github.com/cocoritzy/RAG-for-climate-change)↗
 * Build an AI-powered assistant that retrieves relevant climate change tweets and generates context-aware responses.
 * 🔹 **Tech Stack**: LLM, Hugging Face datasets, FAISS, LangChain, Gradio 
 
