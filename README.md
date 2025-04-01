@@ -10,15 +10,19 @@ I also hold a First Class Degree in [Design Engineering](https://www.imperial.ac
 
 ---
 ## 📌 **Projects & Research**  
-### [**1️⃣ What is the Internet Carbon Footprint ?** ](https://github.com/cocoritzy/Internet-carbon-footprint)↗
+### [**1 What is the Internet Carbon Footprint ?** ](https://github.com/cocoritzy/Internet-carbon-footprint)↗
 * Designed and developed a real-time Internet Carbon Footprint analyser to increase user awareness of their digital carbon consumption.
 * 🔹 **Tech Stack**: Python, network traffic analyser, Machine Learning classifiers, Raspberry Pi, GCP
 
-### [**2️⃣ Can social media influence energy consumption?** ](https://github.com/cocoritzy/Energy-prediction-algorithms)↗
+### [**2 Can social media influence energy consumption?** ](https://github.com/cocoritzy/Energy-prediction-algorithms)↗
 * Explored correlations between household’s energy consumption and energy’s news datasets to build prediction algorithms to increase awareness and reduce domestic energy consumption.
 * 🔹 **Tech Stack**: Python, Light sensor, ESP32, NoSQL MongoDB, Twitter API
 
-### [**3️⃣ Coming soon (Rag for Climate news)**  ](https://github.com/cocoritzy/RAG-for-climate-change)↗
+### [**3 MNIST Digit Recognition Web App ** ](https://github.com/cocoritzy/ml_institute)↗
+* Build an end-to-end MNIST digit recognition app. 
+* 🔹 **Tech Stack**: PyTorch, PostgreSQL, Docker, and Streamlit
+
+### [**4 Coming soon (Rag for Climate news)**  ](https://github.com/cocoritzy/RAG-for-climate-change)↗
 * Build an AI-powered assistant that retrieves relevant climate change tweets and generates context-aware responses.
 * 🔹 **Tech Stack**: LLM, Hugging Face datasets, FAISS, LangChain, Gradio 
 
