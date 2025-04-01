@@ -18,7 +18,7 @@ I also hold a First Class Degree in [Design Engineering](https://www.imperial.ac
 * Explored correlations between household’s energy consumption and energy’s news datasets to build prediction algorithms to increase awareness and reduce domestic energy consumption.
 * 🔹 **Tech Stack**: Python, Light sensor, ESP32, NoSQL MongoDB, Twitter API
 
-### [**3 MNIST Digit Recognition Web App ** ](https://github.com/cocoritzy/ml_institute)↗
+### [**3 MNIST Digit Recognition Web App**](https://github.com/cocoritzy/ml_institute)↗
 * Build an end-to-end MNIST digit recognition app. 
 * 🔹 **Tech Stack**: PyTorch, PostgreSQL, Docker, and Streamlit
 
